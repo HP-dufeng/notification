@@ -1,0 +1,8 @@
+# See http://help.github.com/ignore-files/ for more about ignoring files.
+
+# IDEs and editors
+.vs/
+.vscode/
+obj/
+bin/
+EWIP.Notification.Host/App_Data/Logs/
